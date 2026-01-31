@@ -3,7 +3,11 @@ title: Home
 ---
 
 
-![Rob Graumans](picture.jpg){: style="width:80px; border-radius:50%;" }
+<div style="display: flex; align-items: center;">
+  <h1 style="margin-right: 20px;">Rob Graumans</h1>
+  <img src="picture.jpg" alt="Rob Graumans" width="150" style="border-radius:50%;">
+</div>
+
 
 
 # Rob Graumans
