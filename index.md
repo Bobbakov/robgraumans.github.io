@@ -2,6 +2,10 @@
 title: Home
 ---
 
+
+![Rob Graumans](picture.jpg){: style="width:80px; border-radius:50%;" }
+
+
 # Rob Graumans
 
 I am a researcher working in **market microstructure**, currently affiliated with **University of Oxford**.  
@@ -14,7 +18,6 @@ My research focuses on **[main topic]**, with particular interest in **algorithm
 
 ---
 
-![Rob Graumans](profile.jpg){: style="width:150px; border-radius:50%;" }
 
 ## Research interests
 - Topic 1 (short description)
