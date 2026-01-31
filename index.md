@@ -12,8 +12,9 @@ My research focuses on **[main topic]**, with particular interest in **algorithm
 
 *All content on this website is provided in my personal capacity and does not represent the views or positions of the institutions with which I am affiliated.*
 
-
 ---
+
+![Rob Graumans](profile.jpg){: style="width:150px; border-radius:50%;" }
 
 ## Research interests
 - Topic 1 (short description)
