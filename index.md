@@ -1,9 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 20px;">Rob Graumans</h1>
-  <img src="picture.jpg" alt="Rob Graumans" width="150" style="border-radius:50%;">
-</div>
+<h1>Rob Graumans</h1>
 
-I am interested in the effect of algorithmic trading and machine learning on market quality and market integrity. My main focus is on understanding what market manipulation in the modern might look like, what drives trading algorithms to do what they do, on collusion, and agent-based modelling of trading algorithms.
+<img src="picture.jpg"
+     alt="Rob Graumans"
+     width="150"
+     style="border-radius:50%; float: right; margin: 0 0 15px 20px;">
+
+<p>
+I am interested in the effect of algorithmic trading and machine learning on market
+quality and market integrity. My main focus is on understanding what market manipulation
+in the modern might look like, what drives trading algorithms to do what they do, on
+collusion, and agent-based modelling of trading algorithms.
+</p>
 
 ---
 
