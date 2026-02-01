@@ -2,15 +2,6 @@
 title: Research
 ---
 
-# Research
-
-## Current projects
-### Project 1
-Short description of the project.
-
-### Project 2
-Short description of the project.
-
 ## Publications
 <ul>  
   <li>Cartea, Á., Cohen, S. N., Graumans, R., Labyad, S., Sánchez-Betancourt, L., & van Veldhuijzen, L. (2025). <i>Statistical predictions of trading strategies in electronic markets</i>. <b>Journal of Financial Econometrics, 23(2)</b>, nbae025.</li>
