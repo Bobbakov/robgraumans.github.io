@@ -12,7 +12,7 @@ Short description of the project.
 Short description of the project.
 
 ## Publications
-</ul>  
+<ul>  
   <li>Cartea, Á., Cohen, S. N., Graumans, R., Labyad, S., Sánchez-Betancourt, L., & van Veldhuijzen, L. (2025). <i>Statistical predictions of trading strategies in electronic markets</i>. <b>Journal of Financial Econometrics, 23(2)</b>, nbae025.</li>
 </ul>
 
