@@ -1,8 +1,6 @@
-<-
----
-title: Home
----
-->
+# ---
+# title: Home
+# ---
 
 <div style="display: flex; align-items: center;">
   <h1 style="margin-right: 20px;">Rob Graumans</h1>
