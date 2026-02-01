@@ -2,8 +2,6 @@
 title: Media
 ---
 
-# Media
-
 This page highlights media coverage, interviews, podcasts, and other public mentions of my work.
 
 ## Academic presentations
