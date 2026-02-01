@@ -8,9 +8,7 @@ title: Home
   <img src="picture.jpg" alt="Rob Graumans" width="150" style="border-radius:50%;">
 </div>
 
-
-
-# Rob Graumans
+I study the effect of algorithmic trading and machine learning on market quality. I am especially interested in the effect of algorithmic trading and machine learnign on market quality and market integrity.  
 
 I am a researcher working in **market microstructure**, currently affiliated with **University of Oxford**.  
 My research focuses on **[main topic]**, with particular interest in **algorithmic trading**, **market microstructure**, and **market manipulation*.
@@ -31,9 +29,10 @@ My research focuses on **[main topic]**, with particular interest in **algorithm
 ---
 
 ## Current position
-- **[Your position]**, [Department], [Institution]  
-  *(Year – present)*
-
+- **[PhD Candidate]**, [Department of Engineering], [University of Oxford]  
+  *(2023 – Now)*
+- **[Data Scientist Capital Markets]**, [Capital Markets Division], [Dutch Authority for the Financial Markets]  
+  *(2017 – Now)*
 ---
 
 ## Selected publications
